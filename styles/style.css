@@ -1,0 +1,11 @@
+header {
+    width: 90%;
+    height: 90vh;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.548), rgba(255, 255, 255, 0.548)), url(https://avatars.githubusercontent.com/u/53802153?v=4);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgba(255, 255, 255, 0.468);
+    background-blend-mode: overlay;
+
+}
