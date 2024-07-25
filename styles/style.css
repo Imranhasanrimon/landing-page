@@ -160,6 +160,10 @@ main .featured-section {
     font-weight: 700;
 }
 
+.parent a:hover {
+    color: blueviolet;
+}
+
 /* delivery-section designing  */
 .delivery-section {
     border-radius: 8px;
