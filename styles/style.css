@@ -158,10 +158,13 @@ main .featured-section {
     color: rgb(39, 39, 39);
     font-size: 24px;
     font-weight: 700;
+    text-decoration: none;
+
 }
 
 .parent a:hover {
     color: blueviolet;
+    text-decoration: underline;
 }
 
 /* delivery-section designing  */
