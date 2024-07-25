@@ -46,6 +46,7 @@ span {
     color: rgb(255, 255, 255);
     font-size: 20px;
     font-weight: 700;
+    cursor: pointer;
 }
 
 img {
