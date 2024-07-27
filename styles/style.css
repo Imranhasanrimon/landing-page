@@ -240,6 +240,13 @@ main .featured-section {
     display: flex;
     justify-content: center;
     align-items: center;
+
+    #btn:hover {
+        background: white;
+        border: 2px solid rgb(229, 84, 115);
+        color: black;
+        display: inline-block;
+    }
 }
 
 .input-content input[type="email"] {
